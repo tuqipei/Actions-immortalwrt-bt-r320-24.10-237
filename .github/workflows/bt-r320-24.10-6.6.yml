@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build bt-r320 Immortalwrt 24.10-6.6
+name: 编译bt-r320 Immortalwrt 24.10-6.6
 
 on:
   repository_dispatch:  
